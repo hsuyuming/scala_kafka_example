@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/abehsu/Documents/Kafka_producer/src/main/scala/KafkaProducerApp.scala:28:7: ';' expected but ')' found.[0m
-[0m[[0m[31merror[0m] [0m[0m      )[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/abehsu/Documents/Kafka_producer/src/main/scala/kafka_consumer.scala:29:23: class java.time.Duration is not a value[0m
+[0m[[0m[31merror[0m] [0m[0m        consumer.poll(Duration)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
